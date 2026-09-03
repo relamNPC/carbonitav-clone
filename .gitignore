@@ -1,0 +1,5 @@
+# Temp comparison/debug files
+_*.py
+_cmp_*.png
+_*.png
+*.log
